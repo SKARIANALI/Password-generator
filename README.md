@@ -65,4 +65,4 @@ The most powerful and flexible version, perfect for scripting and automation.
     ```
 
 
-
+This README was created for a beginner-friendly Python project. 
